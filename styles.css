@@ -48,11 +48,13 @@ footer {
     margin-left: 20px;
     padding: 10px;
     border: 2px solid black;
-    
+    clear: both;
+    bottom: 2000px;
     width: 96%;
     text-align: center;
     font-family: cursive;
     background-color: rgb(212, 205, 224);
 
 }
+
 
